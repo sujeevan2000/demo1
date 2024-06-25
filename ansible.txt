@@ -1,0 +1,3 @@
+welcome to ansible class
+ansible used for deployment
+Iam practicing git
